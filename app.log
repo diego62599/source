@@ -1,0 +1,1533 @@
+2024-07-04 12:25:30,474 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:25:30,475 - INFO - Este es un mensaje informativo
+2024-07-04 12:25:30,475 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:25:30,476 - ERROR - Este es un mensaje de error
+2024-07-04 12:25:30,476 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:25:51,075 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:25:51,075 - INFO - Este es un mensaje informativo
+2024-07-04 12:25:51,076 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:25:51,077 - ERROR - Este es un mensaje de error
+2024-07-04 12:25:51,077 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:27:47,752 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:27:47,753 - INFO - Este es un mensaje informativo
+2024-07-04 12:27:47,754 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:27:47,754 - ERROR - Este es un mensaje de error
+2024-07-04 12:27:47,754 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:28:23,632 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:28:23,632 - INFO - Este es un mensaje informativo
+2024-07-04 12:28:23,633 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:28:23,633 - ERROR - Este es un mensaje de error
+2024-07-04 12:28:23,633 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:28:58,910 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:28:58,910 - INFO - Este es un mensaje informativo
+2024-07-04 12:28:58,910 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:28:58,911 - ERROR - Este es un mensaje de error
+2024-07-04 12:28:58,911 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:29:20,764 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:29:20,764 - INFO - Este es un mensaje informativo
+2024-07-04 12:29:20,766 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:29:20,766 - ERROR - Este es un mensaje de error
+2024-07-04 12:29:20,766 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:29:21,034 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-04 12:29:21,034 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 12:29:21,036 - INFO -  * Restarting with stat
+2024-07-04 12:29:21,702 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:29:21,703 - INFO - Este es un mensaje informativo
+2024-07-04 12:29:21,703 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:29:21,704 - ERROR - Este es un mensaje de error
+2024-07-04 12:29:21,704 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:29:21,813 - WARNING -  * Debugger is active!
+2024-07-04 12:29:21,820 - INFO -  * Debugger PIN: 387-143-532
+2024-07-04 12:29:33,148 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-04 12:29:33,329 - INFO -  * Restarting with stat
+2024-07-04 12:30:29,523 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:30:29,523 - INFO - Este es un mensaje informativo
+2024-07-04 12:30:29,524 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:30:29,524 - ERROR - Este es un mensaje de error
+2024-07-04 12:30:29,524 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:30:29,983 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-04 12:30:30,052 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-04 12:30:30,211 - INFO -  * Restarting with stat
+2024-07-04 12:31:02,670 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:31:02,671 - INFO - Este es un mensaje informativo
+2024-07-04 12:31:02,841 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:31:02,956 - ERROR - Este es un mensaje de error
+2024-07-04 12:31:03,140 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:31:04,682 - WARNING -  * Debugger is active!
+2024-07-04 12:31:04,697 - INFO -  * Debugger PIN: 387-143-532
+2024-07-04 12:33:40,833 - INFO - 127.0.0.1 - - [04/Jul/2024 12:33:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-07-04 12:33:41,227 - INFO - 127.0.0.1 - - [04/Jul/2024 12:33:41] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-07-04 12:33:41,233 - INFO - 127.0.0.1 - - [04/Jul/2024 12:33:41] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-07-04 12:33:41,865 - INFO - 127.0.0.1 - - [04/Jul/2024 12:33:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-07-04 12:33:42,093 - INFO - 127.0.0.1 - - [04/Jul/2024 12:33:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-04 12:33:48,406 - INFO - 127.0.0.1 - - [04/Jul/2024 12:33:48] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-04 12:33:48,594 - INFO - 127.0.0.1 - - [04/Jul/2024 12:33:48] "GET /roles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-07-04 12:33:48,775 - INFO - 127.0.0.1 - - [04/Jul/2024 12:33:48] "GET /roles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-07-04 12:33:49,160 - INFO - 127.0.0.1 - - [04/Jul/2024 12:33:49] "GET /roles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-07-04 12:33:49,610 - INFO - 127.0.0.1 - - [04/Jul/2024 12:33:49] "[36mGET /roles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-04 12:34:10,758 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-04 12:34:10,936 - INFO -  * Restarting with stat
+2024-07-04 12:34:11,863 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:34:11,863 - INFO - Este es un mensaje informativo
+2024-07-04 12:34:11,864 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:34:11,864 - ERROR - Este es un mensaje de error
+2024-07-04 12:34:11,864 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:34:12,027 - WARNING -  * Debugger is active!
+2024-07-04 12:34:12,034 - INFO -  * Debugger PIN: 387-143-532
+2024-07-04 12:34:17,176 - INFO - 127.0.0.1 - - [04/Jul/2024 12:34:17] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-04 12:34:17,323 - INFO - 127.0.0.1 - - [04/Jul/2024 12:34:17] "[36mGET /roles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-04 12:34:17,335 - INFO - 127.0.0.1 - - [04/Jul/2024 12:34:17] "[36mGET /roles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-04 12:34:17,431 - INFO - 127.0.0.1 - - [04/Jul/2024 12:34:17] "[36mGET /roles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-04 12:34:17,509 - INFO - 127.0.0.1 - - [04/Jul/2024 12:34:17] "[36mGET /roles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-04 12:34:33,603 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-04 12:34:33,803 - INFO -  * Restarting with stat
+2024-07-04 12:34:34,845 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:34:34,848 - INFO - Este es un mensaje informativo
+2024-07-04 12:34:34,848 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:34:34,849 - ERROR - Este es un mensaje de error
+2024-07-04 12:34:34,849 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:34:34,961 - WARNING -  * Debugger is active!
+2024-07-04 12:34:34,969 - INFO -  * Debugger PIN: 387-143-532
+2024-07-04 12:34:35,039 - INFO - 127.0.0.1 - - [04/Jul/2024 12:34:35] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-04 12:34:35,167 - INFO - 127.0.0.1 - - [04/Jul/2024 12:34:35] "[36mGET /roles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-04 12:34:35,171 - INFO - 127.0.0.1 - - [04/Jul/2024 12:34:35] "[36mGET /roles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-04 12:34:35,293 - INFO - 127.0.0.1 - - [04/Jul/2024 12:34:35] "[36mGET /roles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-04 12:34:35,489 - INFO - 127.0.0.1 - - [04/Jul/2024 12:34:35] "[36mGET /roles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-04 12:34:47,409 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-04 12:34:47,629 - INFO -  * Restarting with stat
+2024-07-04 12:34:48,632 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:34:48,639 - INFO - Este es un mensaje informativo
+2024-07-04 12:34:48,643 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:34:48,645 - ERROR - Este es un mensaje de error
+2024-07-04 12:34:48,649 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:34:48,827 - WARNING -  * Debugger is active!
+2024-07-04 12:34:48,840 - INFO -  * Debugger PIN: 387-143-532
+2024-07-04 12:34:51,053 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-04 12:34:51,199 - INFO -  * Restarting with stat
+2024-07-04 12:34:52,003 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:34:52,004 - INFO - Este es un mensaje informativo
+2024-07-04 12:34:52,004 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:34:52,005 - ERROR - Este es un mensaje de error
+2024-07-04 12:34:52,005 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:34:52,111 - WARNING -  * Debugger is active!
+2024-07-04 12:34:52,117 - INFO -  * Debugger PIN: 387-143-532
+2024-07-04 12:34:54,246 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-04 12:34:54,725 - INFO -  * Restarting with stat
+2024-07-04 12:34:56,597 - DEBUG - Este es un mensaje de debug
+2024-07-04 12:34:56,601 - INFO - Este es un mensaje informativo
+2024-07-04 12:34:56,602 - WARNING - Este es un mensaje de advertencia
+2024-07-04 12:34:56,602 - ERROR - Este es un mensaje de error
+2024-07-04 12:34:56,603 - CRITICAL - Este es un mensaje crítico
+2024-07-04 12:34:56,745 - WARNING -  * Debugger is active!
+2024-07-04 12:34:56,750 - INFO -  * Debugger PIN: 387-143-532
+2024-07-04 12:34:57,974 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-04 12:34:58,208 - INFO -  * Restarting with stat
+2024-07-09 10:58:36,618 - DEBUG - Este es un mensaje de debug
+2024-07-09 10:58:36,619 - INFO - Este es un mensaje informativo
+2024-07-09 10:58:36,620 - WARNING - Este es un mensaje de advertencia
+2024-07-09 10:58:36,620 - ERROR - Este es un mensaje de error
+2024-07-09 10:58:36,620 - CRITICAL - Este es un mensaje crítico
+2024-07-09 10:58:36,980 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 10:58:36,980 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 10:58:36,985 - INFO -  * Restarting with stat
+2024-07-09 10:58:39,195 - DEBUG - Este es un mensaje de debug
+2024-07-09 10:58:39,196 - INFO - Este es un mensaje informativo
+2024-07-09 10:58:39,197 - WARNING - Este es un mensaje de advertencia
+2024-07-09 10:58:39,197 - ERROR - Este es un mensaje de error
+2024-07-09 10:58:39,197 - CRITICAL - Este es un mensaje crítico
+2024-07-09 10:58:39,481 - WARNING -  * Debugger is active!
+2024-07-09 10:58:39,503 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 10:58:46,216 - ERROR - Unhandled Exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-07-09 10:58:46,218 - INFO - 127.0.0.1 - - [09/Jul/2024 10:58:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-07-09 10:58:58,459 - ERROR - Unhandled Exception: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 10:58:58,460 - INFO - 127.0.0.1 - - [09/Jul/2024 10:58:58] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 10:58:58,691 - ERROR - Unhandled Exception: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 10:58:58,692 - INFO - 127.0.0.1 - - [09/Jul/2024 10:58:58] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:00:10,871 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-09 11:00:11,140 - INFO -  * Restarting with stat
+2024-07-09 11:00:13,357 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:00:13,358 - INFO - Este es un mensaje informativo
+2024-07-09 11:00:13,358 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:00:13,358 - ERROR - Este es un mensaje de error
+2024-07-09 11:00:13,359 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:00:13,688 - WARNING -  * Debugger is active!
+2024-07-09 11:00:13,700 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:00:18,568 - ERROR - Unhandled Exception: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 11:00:18,569 - INFO - 127.0.0.1 - - [09/Jul/2024 11:00:18] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:03:06,510 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:03:06,511 - INFO - Este es un mensaje informativo
+2024-07-09 11:03:06,511 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:03:06,511 - ERROR - Este es un mensaje de error
+2024-07-09 11:03:06,513 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:03:06,794 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 11:03:06,794 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 11:03:06,798 - INFO -  * Restarting with stat
+2024-07-09 11:03:08,445 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:03:08,450 - INFO - Este es un mensaje informativo
+2024-07-09 11:03:08,522 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:03:08,550 - ERROR - Este es un mensaje de error
+2024-07-09 11:03:08,559 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:03:10,169 - WARNING -  * Debugger is active!
+2024-07-09 11:03:10,178 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:03:11,311 - ERROR - Unhandled Exception: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 11:03:11,312 - INFO - 127.0.0.1 - - [09/Jul/2024 11:03:11] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:06:50,583 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-09 11:06:50,815 - INFO -  * Restarting with stat
+2024-07-09 11:06:52,299 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:06:52,300 - INFO - Este es un mensaje informativo
+2024-07-09 11:06:52,300 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:06:52,300 - ERROR - Este es un mensaje de error
+2024-07-09 11:06:52,302 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:06:52,474 - WARNING -  * Debugger is active!
+2024-07-09 11:06:52,479 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:06:57,843 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\config.py', reloading
+2024-07-09 11:06:58,090 - INFO -  * Restarting with stat
+2024-07-09 11:06:59,415 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:06:59,416 - INFO - Este es un mensaje informativo
+2024-07-09 11:06:59,416 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:06:59,419 - ERROR - Este es un mensaje de error
+2024-07-09 11:06:59,423 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:06:59,731 - WARNING -  * Debugger is active!
+2024-07-09 11:06:59,765 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:07:46,253 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 11:07:46,726 - INFO -  * Restarting with stat
+2024-07-09 11:07:48,244 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:07:48,244 - INFO - Este es un mensaje informativo
+2024-07-09 11:07:48,244 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:07:48,244 - ERROR - Este es un mensaje de error
+2024-07-09 11:07:48,246 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:07:48,427 - WARNING -  * Debugger is active!
+2024-07-09 11:07:48,432 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:07:52,511 - ERROR - Unhandled Exception: name 'Empleado' is not defined
+2024-07-09 11:07:52,524 - INFO - 127.0.0.1 - - [09/Jul/2024 11:07:52] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:08:04,122 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 11:08:04,304 - INFO -  * Restarting with stat
+2024-07-09 11:08:06,587 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:08:06,591 - INFO - Este es un mensaje informativo
+2024-07-09 11:08:06,592 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:08:06,593 - ERROR - Este es un mensaje de error
+2024-07-09 11:08:06,594 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:08:07,377 - WARNING -  * Debugger is active!
+2024-07-09 11:08:07,393 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:08:07,516 - ERROR - Unhandled Exception: name 'Empleado' is not defined
+2024-07-09 11:08:07,523 - INFO - 127.0.0.1 - - [09/Jul/2024 11:08:07] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:08:13,682 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 11:08:13,866 - INFO -  * Restarting with stat
+2024-07-09 11:08:16,036 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:08:16,042 - INFO - Este es un mensaje informativo
+2024-07-09 11:08:16,042 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:08:16,043 - ERROR - Este es un mensaje de error
+2024-07-09 11:08:16,043 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:08:16,368 - WARNING -  * Debugger is active!
+2024-07-09 11:08:16,375 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:08:16,523 - ERROR - Unhandled Exception: name 'Empleado' is not defined
+2024-07-09 11:08:16,526 - INFO - 127.0.0.1 - - [09/Jul/2024 11:08:16] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:08:32,008 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 11:08:32,277 - INFO -  * Restarting with stat
+2024-07-09 11:08:35,507 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:08:35,508 - INFO - Este es un mensaje informativo
+2024-07-09 11:08:35,508 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:08:35,509 - ERROR - Este es un mensaje de error
+2024-07-09 11:08:35,510 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:08:37,678 - WARNING -  * Debugger is active!
+2024-07-09 11:08:37,687 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:08:37,744 - ERROR - Unhandled Exception: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 11:08:37,746 - INFO - 127.0.0.1 - - [09/Jul/2024 11:08:37] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:09:05,146 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 11:09:05,383 - INFO -  * Restarting with stat
+2024-07-09 11:09:06,783 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:09:06,786 - INFO - Este es un mensaje informativo
+2024-07-09 11:09:06,790 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:09:06,812 - ERROR - Este es un mensaje de error
+2024-07-09 11:09:06,817 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:09:07,093 - WARNING -  * Debugger is active!
+2024-07-09 11:09:07,099 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:09:09,229 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 11:09:09,417 - INFO -  * Restarting with stat
+2024-07-09 11:09:11,144 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:09:11,147 - INFO - Este es un mensaje informativo
+2024-07-09 11:09:11,147 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:09:11,147 - ERROR - Este es un mensaje de error
+2024-07-09 11:09:11,148 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:09:11,603 - WARNING -  * Debugger is active!
+2024-07-09 11:09:11,825 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:09:13,432 - ERROR - Unhandled Exception: name 'Empleado' is not defined
+2024-07-09 11:09:13,461 - INFO - 127.0.0.1 - - [09/Jul/2024 11:09:13] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:09:21,035 - ERROR - Unhandled Exception: name 'Empleado' is not defined
+2024-07-09 11:09:21,035 - INFO - 127.0.0.1 - - [09/Jul/2024 11:09:21] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:09:21,236 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 11:09:21,559 - INFO -  * Restarting with stat
+2024-07-09 11:09:22,842 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:09:22,844 - INFO - Este es un mensaje informativo
+2024-07-09 11:09:22,846 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:09:22,848 - ERROR - Este es un mensaje de error
+2024-07-09 11:09:22,849 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:09:23,116 - WARNING -  * Debugger is active!
+2024-07-09 11:09:23,121 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:09:23,164 - ERROR - Unhandled Exception: name 'Empleado' is not defined
+2024-07-09 11:09:23,165 - INFO - 127.0.0.1 - - [09/Jul/2024 11:09:23] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:09:35,648 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 11:09:35,885 - INFO -  * Restarting with stat
+2024-07-09 11:09:37,973 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:09:37,973 - INFO - Este es un mensaje informativo
+2024-07-09 11:09:37,974 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:09:37,974 - ERROR - Este es un mensaje de error
+2024-07-09 11:09:37,975 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:09:48,264 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:09:48,265 - INFO - Este es un mensaje informativo
+2024-07-09 11:09:48,265 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:09:48,265 - ERROR - Este es un mensaje de error
+2024-07-09 11:09:48,265 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:10:17,541 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:10:17,541 - INFO - Este es un mensaje informativo
+2024-07-09 11:10:17,543 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:10:17,543 - ERROR - Este es un mensaje de error
+2024-07-09 11:10:17,543 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:10:17,940 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 11:10:17,941 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 11:10:17,943 - INFO -  * Restarting with stat
+2024-07-09 11:10:19,703 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:10:19,706 - INFO - Este es un mensaje informativo
+2024-07-09 11:10:19,707 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:10:19,707 - ERROR - Este es un mensaje de error
+2024-07-09 11:10:19,708 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:10:20,288 - WARNING -  * Debugger is active!
+2024-07-09 11:10:20,334 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:10:23,478 - ERROR - Unhandled Exception: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 11:10:23,486 - INFO - 127.0.0.1 - - [09/Jul/2024 11:10:23] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:11:39,452 - ERROR - Unhandled Exception: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 11:11:39,454 - INFO - 127.0.0.1 - - [09/Jul/2024 11:11:39] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:11:44,503 - ERROR - Unhandled Exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-07-09 11:11:44,504 - INFO - 127.0.0.1 - - [09/Jul/2024 11:11:44] "[35m[1mGET /usuarios HTTP/1.1[0m" 500 -
+2024-07-09 11:12:47,380 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-09 11:12:47,598 - INFO -  * Restarting with stat
+2024-07-09 11:12:48,901 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:12:48,902 - INFO - Este es un mensaje informativo
+2024-07-09 11:12:48,903 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:12:48,903 - ERROR - Este es un mensaje de error
+2024-07-09 11:12:48,903 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:12:49,041 - WARNING -  * Debugger is active!
+2024-07-09 11:12:49,046 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:12:51,192 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-09 11:12:51,380 - INFO -  * Restarting with stat
+2024-07-09 11:12:59,106 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:12:59,107 - INFO - Este es un mensaje informativo
+2024-07-09 11:12:59,107 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:12:59,108 - ERROR - Este es un mensaje de error
+2024-07-09 11:12:59,108 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:12:59,554 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 11:12:59,554 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 11:12:59,557 - INFO -  * Restarting with stat
+2024-07-09 11:13:01,714 - DEBUG - Este es un mensaje de debug
+2024-07-09 11:13:01,743 - INFO - Este es un mensaje informativo
+2024-07-09 11:13:01,743 - WARNING - Este es un mensaje de advertencia
+2024-07-09 11:13:01,744 - ERROR - Este es un mensaje de error
+2024-07-09 11:13:01,745 - CRITICAL - Este es un mensaje crítico
+2024-07-09 11:13:01,929 - WARNING -  * Debugger is active!
+2024-07-09 11:13:01,936 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:13:02,034 - ERROR - Unhandled Exception: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 11:13:02,048 - INFO - 127.0.0.1 - - [09/Jul/2024 11:13:02] "[35m[1mGET /usuarios HTTP/1.1[0m" 500 -
+2024-07-09 11:14:46,760 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-09 11:14:46,914 - INFO -  * Restarting with stat
+2024-07-09 11:14:48,709 - WARNING -  * Debugger is active!
+2024-07-09 11:14:48,716 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:15:18,745 - ERROR - Unhandled Exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-07-09 11:15:18,746 - INFO - 127.0.0.1 - - [09/Jul/2024 11:15:18] "[35m[1mGET /usuarios HTTP/1.1[0m" 500 -
+2024-07-09 11:15:19,707 - ERROR - Unhandled Exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-07-09 11:15:19,708 - INFO - 127.0.0.1 - - [09/Jul/2024 11:15:19] "[35m[1mGET /usuarios HTTP/1.1[0m" 500 -
+2024-07-09 11:15:20,189 - ERROR - Unhandled Exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-07-09 11:15:20,190 - INFO - 127.0.0.1 - - [09/Jul/2024 11:15:20] "[35m[1mGET /usuarios HTTP/1.1[0m" 500 -
+2024-07-09 11:15:20,338 - ERROR - Unhandled Exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-07-09 11:15:20,339 - INFO - 127.0.0.1 - - [09/Jul/2024 11:15:20] "[35m[1mGET /usuarios HTTP/1.1[0m" 500 -
+2024-07-09 11:15:20,485 - ERROR - Unhandled Exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-07-09 11:15:20,486 - INFO - 127.0.0.1 - - [09/Jul/2024 11:15:20] "[35m[1mGET /usuarios HTTP/1.1[0m" 500 -
+2024-07-09 11:15:20,638 - ERROR - Unhandled Exception: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2024-07-09 11:15:20,638 - INFO - 127.0.0.1 - - [09/Jul/2024 11:15:20] "[35m[1mGET /usuarios HTTP/1.1[0m" 500 -
+2024-07-09 11:15:35,122 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-09 11:15:35,360 - INFO -  * Restarting with stat
+2024-07-09 11:15:36,665 - WARNING -  * Debugger is active!
+2024-07-09 11:15:36,722 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:15:37,834 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-09 11:15:38,025 - INFO -  * Restarting with stat
+2024-07-09 11:15:39,042 - WARNING -  * Debugger is active!
+2024-07-09 11:15:39,051 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:15:41,264 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-09 11:15:41,820 - INFO -  * Restarting with stat
+2024-07-09 11:15:43,296 - WARNING -  * Debugger is active!
+2024-07-09 11:15:43,302 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:15:43,338 - ERROR - Unhandled Exception: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 11:15:43,340 - INFO - 127.0.0.1 - - [09/Jul/2024 11:15:43] "[35m[1mGET /usuarios HTTP/1.1[0m" 500 -
+2024-07-09 11:27:11,432 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 11:27:11,695 - INFO -  * Restarting with stat
+2024-07-09 11:27:12,905 - WARNING -  * Debugger is active!
+2024-07-09 11:27:12,914 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:28:56,690 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 11:28:56,844 - INFO -  * Restarting with stat
+2024-07-09 11:28:57,660 - WARNING -  * Debugger is active!
+2024-07-09 11:28:57,667 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:28:58,742 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 11:28:58,900 - INFO -  * Restarting with stat
+2024-07-09 11:28:59,844 - WARNING -  * Debugger is active!
+2024-07-09 11:28:59,848 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:29:07,028 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 11:29:07,176 - INFO -  * Restarting with stat
+2024-07-09 11:29:07,965 - WARNING -  * Debugger is active!
+2024-07-09 11:29:07,971 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:29:14,153 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 11:29:14,305 - INFO -  * Restarting with stat
+2024-07-09 11:29:15,121 - WARNING -  * Debugger is active!
+2024-07-09 11:29:15,127 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:44:13,334 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 11:44:13,492 - INFO -  * Restarting with stat
+2024-07-09 11:44:14,611 - WARNING -  * Debugger is active!
+2024-07-09 11:44:14,615 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:45:18,475 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 11:45:18,632 - INFO -  * Restarting with stat
+2024-07-09 11:45:19,691 - WARNING -  * Debugger is active!
+2024-07-09 11:45:19,695 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 11:45:29,006 - ERROR - Unhandled Exception: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 11:45:29,009 - INFO - 127.0.0.1 - - [09/Jul/2024 11:45:29] "[35m[1mGET /usuarios HTTP/1.1[0m" 500 -
+2024-07-09 11:45:34,358 - INFO - 127.0.0.1 - - [09/Jul/2024 11:45:34] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 11:46:40,581 - INFO - 127.0.0.1 - - [09/Jul/2024 11:46:40] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:00:00,455 - ERROR - Unhandled Exception: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 12:00:00,456 - INFO - 127.0.0.1 - - [09/Jul/2024 12:00:00] "[35m[1mGET /usuarios HTTP/1.1[0m" 500 -
+2024-07-09 12:03:00,146 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:03:00,398 - INFO -  * Restarting with stat
+2024-07-09 12:03:54,537 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 12:03:54,540 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 12:03:54,543 - INFO -  * Restarting with stat
+2024-07-09 12:03:55,768 - WARNING -  * Debugger is active!
+2024-07-09 12:03:55,774 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:04:07,316 - ERROR - Unhandled Exception: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 12:04:07,319 - INFO - 127.0.0.1 - - [09/Jul/2024 12:04:07] "[35m[1mGET /usuarios HTTP/1.1[0m" 500 -
+2024-07-09 12:04:11,245 - ERROR - Unhandled Exception: name 'current_app' is not defined
+2024-07-09 12:04:11,246 - INFO - 127.0.0.1 - - [09/Jul/2024 12:04:11] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:04:11,897 - ERROR - Unhandled Exception: name 'current_app' is not defined
+2024-07-09 12:04:11,910 - INFO - 127.0.0.1 - - [09/Jul/2024 12:04:11] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:05:04,144 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:05:04,316 - INFO -  * Restarting with stat
+2024-07-09 12:05:05,248 - WARNING -  * Debugger is active!
+2024-07-09 12:05:05,254 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:05:14,738 - ERROR - Unhandled Exception: name 'app' is not defined
+2024-07-09 12:05:14,740 - INFO - 127.0.0.1 - - [09/Jul/2024 12:05:14] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:06:41,499 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:06:41,644 - INFO -  * Restarting with stat
+2024-07-09 12:06:43,495 - WARNING -  * Debugger is active!
+2024-07-09 12:06:43,506 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:07:05,206 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:07:05,351 - INFO -  * Restarting with stat
+2024-07-09 12:07:06,993 - WARNING -  * Debugger is active!
+2024-07-09 12:07:06,999 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:07:11,498 - ERROR - Unhandled Exception: name 'current_app' is not defined
+2024-07-09 12:07:11,522 - INFO - 127.0.0.1 - - [09/Jul/2024 12:07:11] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:08:08,900 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:08:09,160 - INFO -  * Restarting with stat
+2024-07-09 12:08:10,506 - WARNING -  * Debugger is active!
+2024-07-09 12:08:10,510 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:08:10,578 - ERROR - Error al obtener empleados: name 'Empleado' is not defined
+2024-07-09 12:08:10,579 - INFO - 127.0.0.1 - - [09/Jul/2024 12:08:10] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:08:28,117 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:08:28,270 - INFO -  * Restarting with stat
+2024-07-09 12:09:08,090 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 12:09:08,091 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 12:09:08,092 - INFO -  * Restarting with stat
+2024-07-09 12:09:09,325 - WARNING -  * Debugger is active!
+2024-07-09 12:09:09,332 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:09:14,558 - ERROR - Error al obtener empleados: name 'Empleado' is not defined
+2024-07-09 12:09:14,560 - INFO - 127.0.0.1 - - [09/Jul/2024 12:09:14] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:09:15,830 - ERROR - Error al obtener empleados: name 'Empleado' is not defined
+2024-07-09 12:09:15,831 - INFO - 127.0.0.1 - - [09/Jul/2024 12:09:15] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:09:30,122 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:09:30,417 - INFO -  * Restarting with stat
+2024-07-09 12:09:37,624 - WARNING -  * Debugger is active!
+2024-07-09 12:09:37,628 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:09:37,697 - ERROR - Error al obtener empleados: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 12:09:37,697 - INFO - 127.0.0.1 - - [09/Jul/2024 12:09:37] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:09:43,765 - ERROR - Error al obtener empleados: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 12:09:43,766 - INFO - 127.0.0.1 - - [09/Jul/2024 12:09:43] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:09:51,118 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:09:51,289 - INFO -  * Restarting with stat
+2024-07-09 12:09:52,933 - WARNING -  * Debugger is active!
+2024-07-09 12:09:52,940 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:10:07,468 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:10:07,654 - INFO -  * Restarting with stat
+2024-07-09 12:10:09,550 - WARNING -  * Debugger is active!
+2024-07-09 12:10:09,556 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:10:17,849 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:10:18,216 - INFO -  * Restarting with stat
+2024-07-09 12:10:20,628 - WARNING -  * Debugger is active!
+2024-07-09 12:10:20,726 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:10:21,219 - ERROR - Error al obtener empleados: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 12:10:21,266 - INFO - 127.0.0.1 - - [09/Jul/2024 12:10:21] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:13:58,849 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:13:59,000 - INFO -  * Restarting with stat
+2024-07-09 12:14:23,699 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 12:14:23,700 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 12:14:23,702 - INFO -  * Restarting with stat
+2024-07-09 12:14:25,113 - WARNING -  * Debugger is active!
+2024-07-09 12:14:25,118 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:14:40,757 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-09 12:14:40,990 - INFO -  * Restarting with stat
+2024-07-09 12:15:31,068 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:15:31,069 - INFO - Este es un mensaje informativo
+2024-07-09 12:15:31,069 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:15:31,069 - ERROR - Este es un mensaje de error
+2024-07-09 12:15:31,069 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:15:31,319 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 12:15:31,320 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 12:15:31,324 - INFO -  * Restarting with stat
+2024-07-09 12:15:32,232 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:15:32,233 - INFO - Este es un mensaje informativo
+2024-07-09 12:15:32,233 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:15:32,234 - ERROR - Este es un mensaje de error
+2024-07-09 12:15:32,234 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:15:32,462 - WARNING -  * Debugger is active!
+2024-07-09 12:15:32,471 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:15:36,018 - ERROR - Error al obtener empleados: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 12:15:36,019 - INFO - 127.0.0.1 - - [09/Jul/2024 12:15:36] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:15:37,059 - ERROR - Error al obtener empleados: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 12:15:37,061 - INFO - 127.0.0.1 - - [09/Jul/2024 12:15:37] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:15:37,597 - ERROR - Error al obtener empleados: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 12:15:37,597 - INFO - 127.0.0.1 - - [09/Jul/2024 12:15:37] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:15:37,846 - ERROR - Error al obtener empleados: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 12:15:37,847 - INFO - 127.0.0.1 - - [09/Jul/2024 12:15:37] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:20:07,124 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:20:07,126 - INFO - Este es un mensaje informativo
+2024-07-09 12:20:07,126 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:20:07,127 - ERROR - Este es un mensaje de error
+2024-07-09 12:20:07,127 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:20:07,368 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 12:20:07,368 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 12:20:07,373 - INFO -  * Restarting with stat
+2024-07-09 12:20:08,236 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:20:08,237 - INFO - Este es un mensaje informativo
+2024-07-09 12:20:08,237 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:20:08,238 - ERROR - Este es un mensaje de error
+2024-07-09 12:20:08,238 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:20:08,427 - WARNING -  * Debugger is active!
+2024-07-09 12:20:08,432 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:20:15,177 - ERROR - Error al obtener empleados: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-09 12:20:15,178 - INFO - 127.0.0.1 - - [09/Jul/2024 12:20:15] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:21:16,859 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 12:21:17,007 - INFO -  * Restarting with stat
+2024-07-09 12:21:18,446 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:21:18,446 - INFO - Este es un mensaje informativo
+2024-07-09 12:21:18,447 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:21:18,447 - ERROR - Este es un mensaje de error
+2024-07-09 12:21:18,447 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:21:18,557 - WARNING -  * Debugger is active!
+2024-07-09 12:21:18,561 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:21:36,418 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 12:21:36,590 - INFO -  * Restarting with stat
+2024-07-09 12:21:38,387 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:21:38,388 - INFO - Este es un mensaje informativo
+2024-07-09 12:21:38,388 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:21:38,388 - ERROR - Este es un mensaje de error
+2024-07-09 12:21:38,389 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:21:38,508 - WARNING -  * Debugger is active!
+2024-07-09 12:21:38,512 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:21:45,929 - ERROR - Error al obtener empleados: When initializing mapper Mapper[Facturacion(Facturacion)], expression 'Empleado' failed to locate a name ('Empleado'). If this is a class name, consider adding this relationship() to the <class 'models.facturacion.Facturacion'> class after both dependent classes have been defined.
+2024-07-09 12:21:45,931 - INFO - 127.0.0.1 - - [09/Jul/2024 12:21:45] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:22:35,467 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\facturacion.py', reloading
+2024-07-09 12:22:35,610 - INFO -  * Restarting with stat
+2024-07-09 12:22:36,515 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:22:36,516 - INFO - Este es un mensaje informativo
+2024-07-09 12:22:36,516 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:22:36,517 - ERROR - Este es un mensaje de error
+2024-07-09 12:22:36,517 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:22:36,627 - WARNING -  * Debugger is active!
+2024-07-09 12:22:36,630 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:22:38,829 - ERROR - Error al obtener empleados: Could not determine join condition between parent/child tables on relationship Facturacion.empleados - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+2024-07-09 12:22:38,831 - INFO - 127.0.0.1 - - [09/Jul/2024 12:22:38] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:23:35,340 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\facturacion.py', reloading
+2024-07-09 12:23:35,527 - INFO -  * Restarting with stat
+2024-07-09 12:23:37,244 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:23:37,245 - INFO - Este es un mensaje informativo
+2024-07-09 12:23:37,245 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:23:37,246 - ERROR - Este es un mensaje de error
+2024-07-09 12:23:37,246 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:23:37,494 - WARNING -  * Debugger is active!
+2024-07-09 12:23:37,503 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:23:48,569 - ERROR - Error al obtener empleados: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-09 12:23:48,571 - INFO - 127.0.0.1 - - [09/Jul/2024 12:23:48] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:27:17,336 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 12:27:17,569 - INFO -  * Restarting with stat
+2024-07-09 12:27:46,737 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:27:46,738 - INFO - Este es un mensaje informativo
+2024-07-09 12:27:46,738 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:27:46,739 - ERROR - Este es un mensaje de error
+2024-07-09 12:27:46,739 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:27:46,919 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 12:27:46,920 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 12:27:46,930 - INFO -  * Restarting with stat
+2024-07-09 12:27:49,230 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:27:49,235 - INFO - Este es un mensaje informativo
+2024-07-09 12:27:49,235 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:27:49,236 - ERROR - Este es un mensaje de error
+2024-07-09 12:27:49,236 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:27:49,386 - WARNING -  * Debugger is active!
+2024-07-09 12:27:49,391 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:27:54,207 - ERROR - Error al obtener empleados: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-09 12:27:54,209 - INFO - 127.0.0.1 - - [09/Jul/2024 12:27:54] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:30:18,316 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 12:30:18,515 - INFO -  * Restarting with stat
+2024-07-09 12:30:20,269 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:30:20,294 - INFO - Este es un mensaje informativo
+2024-07-09 12:30:20,294 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:30:20,295 - ERROR - Este es un mensaje de error
+2024-07-09 12:30:20,296 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:30:20,434 - WARNING -  * Debugger is active!
+2024-07-09 12:30:20,438 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:30:22,992 - ERROR - Error al obtener empleados: Could not determine join condition between parent/child tables on relationship Empleados.facturacion - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+2024-07-09 12:30:23,002 - INFO - 127.0.0.1 - - [09/Jul/2024 12:30:23] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:30:39,148 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 12:30:39,384 - INFO -  * Restarting with stat
+2024-07-09 12:30:40,990 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:30:40,995 - INFO - Este es un mensaje informativo
+2024-07-09 12:30:40,996 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:30:40,996 - ERROR - Este es un mensaje de error
+2024-07-09 12:30:40,996 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:30:41,168 - WARNING -  * Debugger is active!
+2024-07-09 12:30:41,174 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:30:41,252 - ERROR - Error al obtener empleados: Could not determine join condition between parent/child tables on relationship Empleados.facturacion - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+2024-07-09 12:30:41,254 - INFO - 127.0.0.1 - - [09/Jul/2024 12:30:41] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:31:06,149 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\facturacion.py', reloading
+2024-07-09 12:31:06,278 - INFO -  * Restarting with stat
+2024-07-09 12:31:07,345 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:31:07,345 - INFO - Este es un mensaje informativo
+2024-07-09 12:31:07,346 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:31:07,346 - ERROR - Este es un mensaje de error
+2024-07-09 12:31:07,346 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:31:07,508 - WARNING -  * Debugger is active!
+2024-07-09 12:31:07,516 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:31:13,528 - ERROR - Error al obtener empleados: Could not determine join condition between parent/child tables on relationship Empleados.facturacion - there are no foreign keys linking these tables.  Ensure that referencing columns are associated with a ForeignKey or ForeignKeyConstraint, or specify a 'primaryjoin' expression.
+2024-07-09 12:31:13,530 - INFO - 127.0.0.1 - - [09/Jul/2024 12:31:13] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:33:52,400 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\facturacion.py', reloading
+2024-07-09 12:33:52,766 - INFO -  * Restarting with stat
+2024-07-09 12:33:54,486 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:33:54,494 - INFO - Este es un mensaje informativo
+2024-07-09 12:33:54,502 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:33:54,506 - ERROR - Este es un mensaje de error
+2024-07-09 12:33:54,560 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:33:55,190 - WARNING -  * Debugger is active!
+2024-07-09 12:33:55,218 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:33:57,672 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 12:33:57,901 - INFO -  * Restarting with stat
+2024-07-09 12:34:42,816 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:34:42,817 - INFO - Este es un mensaje informativo
+2024-07-09 12:34:42,817 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:34:42,817 - ERROR - Este es un mensaje de error
+2024-07-09 12:34:42,817 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:34:58,884 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:34:58,886 - INFO - Este es un mensaje informativo
+2024-07-09 12:34:58,886 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:34:58,887 - ERROR - Este es un mensaje de error
+2024-07-09 12:34:58,887 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:34:59,037 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 12:34:59,038 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 12:34:59,040 - INFO -  * Restarting with stat
+2024-07-09 12:35:00,387 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:35:00,388 - INFO - Este es un mensaje informativo
+2024-07-09 12:35:00,388 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:35:00,388 - ERROR - Este es un mensaje de error
+2024-07-09 12:35:00,389 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:35:00,475 - WARNING -  * Debugger is active!
+2024-07-09 12:35:00,478 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:35:03,353 - ERROR - Error al obtener empleados: name 'Empleados' is not defined
+2024-07-09 12:35:03,356 - INFO - 127.0.0.1 - - [09/Jul/2024 12:35:03] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:35:15,983 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:35:16,116 - INFO -  * Restarting with stat
+2024-07-09 12:35:16,936 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:35:16,936 - INFO - Este es un mensaje informativo
+2024-07-09 12:35:16,936 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:35:16,936 - ERROR - Este es un mensaje de error
+2024-07-09 12:35:16,937 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:35:17,033 - WARNING -  * Debugger is active!
+2024-07-09 12:35:17,037 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:35:18,938 - ERROR - Error al obtener empleados: (pymysql.err.ProgrammingError) (1146, "Table 'mydb.empleado' doesn't exist")
+[SQL: SELECT `Empleado`.id AS `Empleado_id`, `Empleado`.valor AS `Empleado_valor`, `Empleado`.listado AS `Empleado_listado`, `Empleado`.facturacion_id AS `Empleado_facturacion_id`, `Empleado`.profesion AS `Empleado_profesion`, `Empleado`.usuarios_id AS `Empleado_usuarios_id` 
+FROM `Empleado`]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-07-09 12:35:18,939 - INFO - 127.0.0.1 - - [09/Jul/2024 12:35:18] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:37:13,882 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 12:37:14,108 - INFO -  * Restarting with stat
+2024-07-09 12:37:15,542 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:37:15,548 - INFO - Este es un mensaje informativo
+2024-07-09 12:37:15,555 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:37:15,560 - ERROR - Este es un mensaje de error
+2024-07-09 12:37:15,565 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:37:15,931 - WARNING -  * Debugger is active!
+2024-07-09 12:37:15,946 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:37:20,922 - ERROR - Error al obtener empleados: (pymysql.err.OperationalError) (1054, "Unknown column 'empleados.profesion' in 'field list'")
+[SQL: SELECT empleados.id AS empleados_id, empleados.valor AS empleados_valor, empleados.listado AS empleados_listado, empleados.facturacion_id AS empleados_facturacion_id, empleados.profesion AS empleados_profesion, empleados.usuarios_id AS empleados_usuarios_id 
+FROM empleados]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-07-09 12:37:20,924 - INFO - 127.0.0.1 - - [09/Jul/2024 12:37:20] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:38:30,431 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:38:30,620 - INFO -  * Restarting with stat
+2024-07-09 12:38:31,399 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:38:31,399 - INFO - Este es un mensaje informativo
+2024-07-09 12:38:31,400 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:38:31,400 - ERROR - Este es un mensaje de error
+2024-07-09 12:38:31,400 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:38:31,517 - WARNING -  * Debugger is active!
+2024-07-09 12:38:31,521 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:38:33,620 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:38:33,757 - INFO -  * Restarting with stat
+2024-07-09 12:38:34,433 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:38:34,433 - INFO - Este es un mensaje informativo
+2024-07-09 12:38:34,433 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:38:34,434 - ERROR - Este es un mensaje de error
+2024-07-09 12:38:34,434 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:38:34,559 - WARNING -  * Debugger is active!
+2024-07-09 12:38:34,562 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:38:43,172 - ERROR - Error al obtener empleados: (pymysql.err.OperationalError) (1054, "Unknown column 'empleados.profesion' in 'field list'")
+[SQL: SELECT empleados.id AS empleados_id, empleados.valor AS empleados_valor, empleados.listado AS empleados_listado, empleados.facturacion_id AS empleados_facturacion_id, empleados.profesion AS empleados_profesion, empleados.usuarios_id AS empleados_usuarios_id 
+FROM empleados]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-07-09 12:38:43,174 - INFO - 127.0.0.1 - - [09/Jul/2024 12:38:43] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:39:47,573 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 12:39:47,855 - INFO -  * Restarting with stat
+2024-07-09 12:39:48,642 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:39:48,642 - INFO - Este es un mensaje informativo
+2024-07-09 12:39:48,642 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:39:48,642 - ERROR - Este es un mensaje de error
+2024-07-09 12:39:48,642 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:39:48,772 - WARNING -  * Debugger is active!
+2024-07-09 12:39:48,778 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:40:03,710 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:40:04,061 - INFO -  * Restarting with stat
+2024-07-09 12:40:05,274 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:40:05,278 - INFO - Este es un mensaje informativo
+2024-07-09 12:40:05,278 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:40:05,279 - ERROR - Este es un mensaje de error
+2024-07-09 12:40:05,279 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:40:05,584 - WARNING -  * Debugger is active!
+2024-07-09 12:40:05,629 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:40:09,848 - INFO - 127.0.0.1 - - [09/Jul/2024 12:40:09] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:40:31,625 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:40:31,779 - INFO -  * Restarting with stat
+2024-07-09 12:40:32,497 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:40:32,497 - INFO - Este es un mensaje informativo
+2024-07-09 12:40:32,497 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:40:32,497 - ERROR - Este es un mensaje de error
+2024-07-09 12:40:32,498 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:40:32,573 - WARNING -  * Debugger is active!
+2024-07-09 12:40:32,576 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:40:37,748 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:40:37,895 - INFO -  * Restarting with stat
+2024-07-09 12:40:39,190 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:40:39,191 - INFO - Este es un mensaje informativo
+2024-07-09 12:40:39,193 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:40:39,193 - ERROR - Este es un mensaje de error
+2024-07-09 12:40:39,193 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:40:39,584 - WARNING -  * Debugger is active!
+2024-07-09 12:40:39,591 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:40:42,734 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:40:42,905 - INFO -  * Restarting with stat
+2024-07-09 12:40:44,248 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:40:44,248 - INFO - Este es un mensaje informativo
+2024-07-09 12:40:44,248 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:40:44,248 - ERROR - Este es un mensaje de error
+2024-07-09 12:40:44,250 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:40:44,585 - WARNING -  * Debugger is active!
+2024-07-09 12:40:44,592 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:40:45,696 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:40:45,910 - INFO -  * Restarting with stat
+2024-07-09 12:40:46,937 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:40:46,938 - INFO - Este es un mensaje informativo
+2024-07-09 12:40:46,938 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:40:46,939 - ERROR - Este es un mensaje de error
+2024-07-09 12:40:46,939 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:40:47,037 - WARNING -  * Debugger is active!
+2024-07-09 12:40:47,043 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:41:00,999 - INFO - 127.0.0.1 - - [09/Jul/2024 12:41:00] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:41:06,698 - INFO - 127.0.0.1 - - [09/Jul/2024 12:41:06] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:41:54,085 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 12:41:54,266 - INFO -  * Restarting with stat
+2024-07-09 12:41:55,006 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:41:55,006 - INFO - Este es un mensaje informativo
+2024-07-09 12:41:55,007 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:41:55,007 - ERROR - Este es un mensaje de error
+2024-07-09 12:41:55,007 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:41:55,152 - WARNING -  * Debugger is active!
+2024-07-09 12:41:55,159 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:42:00,619 - INFO - 127.0.0.1 - - [09/Jul/2024 12:42:00] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:43:01,016 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\empleados.py', reloading
+2024-07-09 12:43:01,163 - INFO -  * Restarting with stat
+2024-07-09 12:44:06,799 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:44:06,799 - INFO - Este es un mensaje informativo
+2024-07-09 12:44:06,800 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:44:06,800 - ERROR - Este es un mensaje de error
+2024-07-09 12:44:06,800 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:44:06,940 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 12:44:06,940 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 12:44:06,945 - INFO -  * Restarting with stat
+2024-07-09 12:44:08,225 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:44:08,226 - INFO - Este es un mensaje informativo
+2024-07-09 12:44:08,226 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:44:08,226 - ERROR - Este es un mensaje de error
+2024-07-09 12:44:08,226 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:44:08,331 - WARNING -  * Debugger is active!
+2024-07-09 12:44:08,335 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:44:11,178 - INFO - 127.0.0.1 - - [09/Jul/2024 12:44:11] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 12:44:41,515 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\Controllers\\empleados_controller.py', reloading
+2024-07-09 12:44:41,690 - INFO -  * Restarting with stat
+2024-07-09 12:44:42,724 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:44:42,755 - INFO - Este es un mensaje informativo
+2024-07-09 12:44:42,764 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:44:42,796 - ERROR - Este es un mensaje de error
+2024-07-09 12:44:42,806 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:44:43,295 - WARNING -  * Debugger is active!
+2024-07-09 12:44:43,399 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:44:56,446 - INFO - 127.0.0.1 - - [09/Jul/2024 12:44:56] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-09 12:44:56,601 - INFO - 127.0.0.1 - - [09/Jul/2024 12:44:56] "GET /roles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-07-09 12:44:56,623 - INFO - 127.0.0.1 - - [09/Jul/2024 12:44:56] "GET /roles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-07-09 12:44:56,735 - INFO - 127.0.0.1 - - [09/Jul/2024 12:44:56] "[36mGET /roles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-09 12:45:28,905 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:45:28,906 - INFO - Este es un mensaje informativo
+2024-07-09 12:45:28,906 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:45:28,906 - ERROR - Este es un mensaje de error
+2024-07-09 12:45:28,907 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:45:29,031 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 12:45:29,032 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 12:45:29,035 - INFO -  * Restarting with stat
+2024-07-09 12:45:29,734 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:45:29,735 - INFO - Este es un mensaje informativo
+2024-07-09 12:45:29,735 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:45:29,735 - ERROR - Este es un mensaje de error
+2024-07-09 12:45:29,735 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:45:29,812 - WARNING -  * Debugger is active!
+2024-07-09 12:45:29,815 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:45:32,119 - INFO - 127.0.0.1 - - [09/Jul/2024 12:45:32] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-09 12:45:32,188 - INFO - 127.0.0.1 - - [09/Jul/2024 12:45:32] "[36mGET /roles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-09 12:45:32,219 - INFO - 127.0.0.1 - - [09/Jul/2024 12:45:32] "[36mGET /roles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-09 12:45:32,666 - INFO - 127.0.0.1 - - [09/Jul/2024 12:45:32] "[36mGET /roles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-09 12:45:32,818 - INFO - 127.0.0.1 - - [09/Jul/2024 12:45:32] "[36mGET /roles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-09 12:46:19,252 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\models\\__init__.py', reloading
+2024-07-09 12:46:19,400 - INFO -  * Restarting with stat
+2024-07-09 12:46:25,193 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:46:25,193 - INFO - Este es un mensaje informativo
+2024-07-09 12:46:25,193 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:46:25,193 - ERROR - Este es un mensaje de error
+2024-07-09 12:46:25,193 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:46:25,279 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 12:46:25,279 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 12:46:25,281 - INFO -  * Restarting with stat
+2024-07-09 12:46:26,015 - DEBUG - Este es un mensaje de debug
+2024-07-09 12:46:26,015 - INFO - Este es un mensaje informativo
+2024-07-09 12:46:26,015 - WARNING - Este es un mensaje de advertencia
+2024-07-09 12:46:26,016 - ERROR - Este es un mensaje de error
+2024-07-09 12:46:26,016 - CRITICAL - Este es un mensaje crítico
+2024-07-09 12:46:26,125 - WARNING -  * Debugger is active!
+2024-07-09 12:46:26,130 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 12:46:59,423 - INFO - 127.0.0.1 - - [09/Jul/2024 12:46:59] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-09 12:46:59,536 - INFO - 127.0.0.1 - - [09/Jul/2024 12:46:59] "[36mGET /roles?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-09 12:46:59,538 - INFO - 127.0.0.1 - - [09/Jul/2024 12:46:59] "[36mGET /roles?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-09 12:46:59,585 - INFO - 127.0.0.1 - - [09/Jul/2024 12:46:59] "[36mGET /roles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-09 12:46:59,778 - INFO - 127.0.0.1 - - [09/Jul/2024 12:46:59] "[36mGET /roles?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-09 15:01:55,897 - INFO - 127.0.0.1 - - [09/Jul/2024 15:01:55] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 15:01:57,189 - INFO - 127.0.0.1 - - [09/Jul/2024 15:01:57] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 15:02:57,681 - INFO - 127.0.0.1 - - [09/Jul/2024 15:02:57] "[35m[1mGET /estudios HTTP/1.1[0m" 500 -
+2024-07-09 15:02:57,733 - INFO - 127.0.0.1 - - [09/Jul/2024 15:02:57] "GET /estudios?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-07-09 15:02:57,785 - INFO - 127.0.0.1 - - [09/Jul/2024 15:02:57] "GET /estudios?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-07-09 15:02:57,865 - INFO - 127.0.0.1 - - [09/Jul/2024 15:02:57] "GET /estudios?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-07-09 15:02:58,108 - INFO - 127.0.0.1 - - [09/Jul/2024 15:02:58] "[36mGET /estudios?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-09 15:03:22,707 - ERROR - Error al obtener facturaciones: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Empleado(empleados)]'. Original exception was: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-09 15:03:22,711 - INFO - 127.0.0.1 - - [09/Jul/2024 15:03:22] "[35m[1mGET /facturacion HTTP/1.1[0m" 500 -
+2024-07-09 15:03:34,354 - INFO - 127.0.0.1 - - [09/Jul/2024 15:03:34] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 15:03:36,816 - INFO - 127.0.0.1 - - [09/Jul/2024 15:03:36] "[35m[1mGET /experiencia HTTP/1.1[0m" 500 -
+2024-07-09 15:03:36,846 - INFO - 127.0.0.1 - - [09/Jul/2024 15:03:36] "GET /experiencia?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-07-09 15:03:36,855 - INFO - 127.0.0.1 - - [09/Jul/2024 15:03:36] "GET /experiencia?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-07-09 15:03:36,896 - INFO - 127.0.0.1 - - [09/Jul/2024 15:03:36] "GET /experiencia?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-07-09 15:03:36,968 - INFO - 127.0.0.1 - - [09/Jul/2024 15:03:36] "[36mGET /experiencia?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-09 15:04:04,192 - INFO - 127.0.0.1 - - [09/Jul/2024 15:04:04] "[35m[1mGET /productos HTTP/1.1[0m" 500 -
+2024-07-09 15:04:05,219 - INFO - 127.0.0.1 - - [09/Jul/2024 15:04:05] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-09 15:04:05,280 - INFO - 127.0.0.1 - - [09/Jul/2024 15:04:05] "GET /permisos?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-07-09 15:04:05,299 - INFO - 127.0.0.1 - - [09/Jul/2024 15:04:05] "GET /permisos?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-07-09 15:04:05,333 - INFO - 127.0.0.1 - - [09/Jul/2024 15:04:05] "GET /permisos?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-07-09 15:04:05,418 - INFO - 127.0.0.1 - - [09/Jul/2024 15:04:05] "[36mGET /permisos?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-09 15:04:20,230 - INFO - 127.0.0.1 - - [09/Jul/2024 15:04:20] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 15:04:21,460 - INFO - 127.0.0.1 - - [09/Jul/2024 15:04:21] "[35m[1mGET /empleados HTTP/1.1[0m" 500 -
+2024-07-09 15:05:39,365 - INFO - 127.0.0.1 - - [09/Jul/2024 15:05:39] "[35m[1mGET /experiencia HTTP/1.1[0m" 500 -
+2024-07-09 15:05:39,418 - INFO - 127.0.0.1 - - [09/Jul/2024 15:05:39] "[36mGET /experiencia?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-09 15:05:39,419 - INFO - 127.0.0.1 - - [09/Jul/2024 15:05:39] "[36mGET /experiencia?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-09 15:05:39,484 - INFO - 127.0.0.1 - - [09/Jul/2024 15:05:39] "[36mGET /experiencia?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-09 15:06:13,233 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-09 15:06:13,442 - INFO -  * Restarting with stat
+2024-07-09 15:06:16,014 - DEBUG - Este es un mensaje de debug
+2024-07-09 15:06:16,015 - INFO - Este es un mensaje informativo
+2024-07-09 15:06:16,015 - WARNING - Este es un mensaje de advertencia
+2024-07-09 15:06:16,015 - ERROR - Este es un mensaje de error
+2024-07-09 15:06:16,016 - CRITICAL - Este es un mensaje crítico
+2024-07-09 15:06:16,205 - WARNING -  * Debugger is active!
+2024-07-09 15:06:16,215 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 15:06:23,577 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\Src\\app.py', reloading
+2024-07-09 15:06:23,947 - INFO -  * Restarting with stat
+2024-07-09 15:08:44,249 - DEBUG - Este es un mensaje de debug
+2024-07-09 15:08:44,251 - INFO - Este es un mensaje informativo
+2024-07-09 15:08:44,251 - WARNING - Este es un mensaje de advertencia
+2024-07-09 15:08:44,251 - ERROR - Este es un mensaje de error
+2024-07-09 15:08:44,251 - CRITICAL - Este es un mensaje crítico
+2024-07-09 15:08:44,409 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-09 15:08:44,410 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-09 15:08:44,417 - INFO -  * Restarting with stat
+2024-07-09 15:08:45,754 - DEBUG - Este es un mensaje de debug
+2024-07-09 15:08:45,754 - INFO - Este es un mensaje informativo
+2024-07-09 15:08:45,755 - WARNING - Este es un mensaje de advertencia
+2024-07-09 15:08:45,755 - ERROR - Este es un mensaje de error
+2024-07-09 15:08:45,756 - CRITICAL - Este es un mensaje crítico
+2024-07-09 15:08:45,892 - WARNING -  * Debugger is active!
+2024-07-09 15:08:45,898 - INFO -  * Debugger PIN: 387-143-532
+2024-07-09 15:09:09,073 - INFO - 127.0.0.1 - - [09/Jul/2024 15:09:09] "[35m[1mGET /experiencia HTTP/1.1[0m" 500 -
+2024-07-09 15:09:09,221 - INFO - 127.0.0.1 - - [09/Jul/2024 15:09:09] "[36mGET /experiencia?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-09 15:09:09,288 - INFO - 127.0.0.1 - - [09/Jul/2024 15:09:09] "[36mGET /experiencia?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-09 15:09:09,423 - INFO - 127.0.0.1 - - [09/Jul/2024 15:09:09] "[36mGET /experiencia?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-09 15:09:09,637 - INFO - 127.0.0.1 - - [09/Jul/2024 15:09:09] "[36mGET /experiencia?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-11 13:26:16,583 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:26:16,706 - INFO - Este es un mensaje informativo
+2024-07-11 13:26:16,791 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:26:16,844 - ERROR - Este es un mensaje de error
+2024-07-11 13:26:16,900 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:26:17,171 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 13:26:17,172 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 13:26:17,174 - INFO -  * Restarting with stat
+2024-07-11 13:26:18,621 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:26:18,621 - INFO - Este es un mensaje informativo
+2024-07-11 13:26:18,621 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:26:18,622 - ERROR - Este es un mensaje de error
+2024-07-11 13:26:18,622 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:26:18,785 - WARNING -  * Debugger is active!
+2024-07-11 13:26:18,791 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:26:26,481 - INFO - 127.0.0.1 - - [11/Jul/2024 13:26:26] "[35m[1mGET /experiencia HTTP/1.1[0m" 500 -
+2024-07-11 13:26:26,781 - INFO - 127.0.0.1 - - [11/Jul/2024 13:26:26] "[36mGET /experiencia?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-07-11 13:26:26,898 - INFO - 127.0.0.1 - - [11/Jul/2024 13:26:26] "[36mGET /experiencia?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-07-11 13:26:27,072 - INFO - 127.0.0.1 - - [11/Jul/2024 13:26:27] "[36mGET /experiencia?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-11 13:26:27,293 - INFO - 127.0.0.1 - - [11/Jul/2024 13:26:27] "[36mGET /experiencia?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-07-11 13:29:12,590 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\app.py', reloading
+2024-07-11 13:29:12,822 - INFO -  * Restarting with stat
+2024-07-11 13:29:13,668 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:29:13,669 - INFO - Este es un mensaje informativo
+2024-07-11 13:29:13,670 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:29:13,670 - ERROR - Este es un mensaje de error
+2024-07-11 13:29:13,671 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:29:13,916 - WARNING -  * Debugger is active!
+2024-07-11 13:29:13,930 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:29:16,610 - INFO - 127.0.0.1 - - [11/Jul/2024 13:29:16] "[35m[1mGET /experiencia HTTP/1.1[0m" 500 -
+2024-07-11 13:29:36,347 - INFO - 127.0.0.1 - - [11/Jul/2024 13:29:36] "[35m[1mGET /experiencias HTTP/1.1[0m" 500 -
+2024-07-11 13:33:36,647 - INFO - 127.0.0.1 - - [11/Jul/2024 13:33:36] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-11 13:42:52,697 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\app.py', reloading
+2024-07-11 13:42:53,014 - INFO -  * Restarting with stat
+2024-07-11 13:42:55,450 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:42:55,480 - INFO - Este es un mensaje informativo
+2024-07-11 13:42:55,488 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:42:55,502 - ERROR - Este es un mensaje de error
+2024-07-11 13:42:55,509 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:42:55,789 - WARNING -  * Debugger is active!
+2024-07-11 13:42:55,821 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:44:32,018 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\app.py', reloading
+2024-07-11 13:44:32,275 - INFO -  * Restarting with stat
+2024-07-11 13:44:34,167 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:44:34,168 - INFO - Este es un mensaje informativo
+2024-07-11 13:44:34,169 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:44:34,170 - ERROR - Este es un mensaje de error
+2024-07-11 13:44:34,170 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:44:59,493 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:44:59,494 - INFO - Este es un mensaje informativo
+2024-07-11 13:44:59,495 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:44:59,495 - ERROR - Este es un mensaje de error
+2024-07-11 13:44:59,495 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:45:52,423 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:45:52,424 - INFO - Este es un mensaje informativo
+2024-07-11 13:45:52,424 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:45:52,424 - ERROR - Este es un mensaje de error
+2024-07-11 13:45:52,426 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:45:52,596 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 13:45:52,596 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 13:45:52,599 - INFO -  * Restarting with stat
+2024-07-11 13:45:53,589 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:45:53,590 - INFO - Este es un mensaje informativo
+2024-07-11 13:45:53,590 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:45:53,590 - ERROR - Este es un mensaje de error
+2024-07-11 13:45:53,591 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:45:53,729 - WARNING -  * Debugger is active!
+2024-07-11 13:45:53,736 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:47:10,389 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\app.py', reloading
+2024-07-11 13:47:11,078 - INFO -  * Restarting with stat
+2024-07-11 13:47:19,488 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:47:19,595 - INFO - Este es un mensaje informativo
+2024-07-11 13:47:19,695 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:47:19,798 - ERROR - Este es un mensaje de error
+2024-07-11 13:47:19,811 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:47:34,540 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:47:34,643 - INFO - Este es un mensaje informativo
+2024-07-11 13:47:34,735 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:47:34,859 - ERROR - Este es un mensaje de error
+2024-07-11 13:47:34,936 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:47:35,810 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 13:47:35,810 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 13:47:35,812 - INFO -  * Restarting with stat
+2024-07-11 13:47:51,072 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:47:51,086 - INFO - Este es un mensaje informativo
+2024-07-11 13:47:51,139 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:47:51,158 - ERROR - Este es un mensaje de error
+2024-07-11 13:47:51,190 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:47:52,300 - WARNING -  * Debugger is active!
+2024-07-11 13:47:52,313 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:47:52,938 - INFO - 127.0.0.1 - - [11/Jul/2024 13:47:52] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-11 13:48:31,625 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\roles_controller.py', reloading
+2024-07-11 13:48:31,887 - INFO -  * Restarting with stat
+2024-07-11 13:48:33,049 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:48:33,050 - INFO - Este es un mensaje informativo
+2024-07-11 13:48:33,051 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:48:33,051 - ERROR - Este es un mensaje de error
+2024-07-11 13:48:33,052 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:48:33,322 - WARNING -  * Debugger is active!
+2024-07-11 13:48:33,329 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:48:40,030 - INFO - 127.0.0.1 - - [11/Jul/2024 13:48:40] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-11 13:49:12,764 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\roles_controller.py', reloading
+2024-07-11 13:49:12,962 - INFO -  * Restarting with stat
+2024-07-11 13:49:14,058 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:49:14,059 - INFO - Este es un mensaje informativo
+2024-07-11 13:49:14,059 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:49:14,059 - ERROR - Este es un mensaje de error
+2024-07-11 13:49:14,060 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:49:14,256 - WARNING -  * Debugger is active!
+2024-07-11 13:49:14,262 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:49:19,530 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\roles_controller.py', reloading
+2024-07-11 13:49:19,776 - INFO -  * Restarting with stat
+2024-07-11 13:49:21,015 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:49:21,015 - INFO - Este es un mensaje informativo
+2024-07-11 13:49:21,018 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:49:21,018 - ERROR - Este es un mensaje de error
+2024-07-11 13:49:21,019 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:49:21,181 - WARNING -  * Debugger is active!
+2024-07-11 13:49:21,199 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:49:21,882 - ERROR - Error al obtener roles: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-11 13:49:21,895 - INFO - 127.0.0.1 - - [11/Jul/2024 13:49:21] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-11 13:52:57,757 - INFO - 127.0.0.1 - - [11/Jul/2024 13:52:57] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-11 13:54:09,789 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:54:09,960 - INFO -  * Restarting with stat
+2024-07-11 13:54:11,433 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:54:11,465 - INFO - Este es un mensaje informativo
+2024-07-11 13:54:11,480 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:54:11,483 - ERROR - Este es un mensaje de error
+2024-07-11 13:54:11,486 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:54:11,796 - WARNING -  * Debugger is active!
+2024-07-11 13:54:11,801 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:54:20,092 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:54:20,280 - INFO -  * Restarting with stat
+2024-07-11 13:54:21,271 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:54:21,273 - INFO - Este es un mensaje informativo
+2024-07-11 13:54:21,273 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:54:21,274 - ERROR - Este es un mensaje de error
+2024-07-11 13:54:21,274 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:54:21,414 - WARNING -  * Debugger is active!
+2024-07-11 13:54:21,420 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:54:24,320 - INFO - 127.0.0.1 - - [11/Jul/2024 13:54:24] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-11 13:55:36,715 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:55:36,889 - INFO -  * Restarting with stat
+2024-07-11 13:55:37,830 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:55:37,830 - INFO - Este es un mensaje informativo
+2024-07-11 13:55:37,830 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:55:37,831 - ERROR - Este es un mensaje de error
+2024-07-11 13:55:37,831 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:55:38,189 - WARNING -  * Debugger is active!
+2024-07-11 13:55:38,198 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:55:40,350 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:55:40,939 - INFO -  * Restarting with stat
+2024-07-11 13:55:42,114 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:55:42,115 - INFO - Este es un mensaje informativo
+2024-07-11 13:55:42,115 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:55:42,115 - ERROR - Este es un mensaje de error
+2024-07-11 13:55:42,116 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:55:42,334 - WARNING -  * Debugger is active!
+2024-07-11 13:55:42,342 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:55:43,468 - INFO - 127.0.0.1 - - [11/Jul/2024 13:55:43] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-11 13:55:58,918 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:55:59,082 - INFO -  * Restarting with stat
+2024-07-11 13:56:00,045 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:56:00,050 - INFO - Este es un mensaje informativo
+2024-07-11 13:56:00,070 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:56:00,097 - ERROR - Este es un mensaje de error
+2024-07-11 13:56:00,150 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:56:00,440 - WARNING -  * Debugger is active!
+2024-07-11 13:56:00,448 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:56:07,781 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:56:07,973 - INFO -  * Restarting with stat
+2024-07-11 13:56:08,916 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:56:08,917 - INFO - Este es un mensaje informativo
+2024-07-11 13:56:08,917 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:56:08,918 - ERROR - Este es un mensaje de error
+2024-07-11 13:56:08,918 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:56:09,069 - WARNING -  * Debugger is active!
+2024-07-11 13:56:09,074 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:56:09,367 - INFO - 127.0.0.1 - - [11/Jul/2024 13:56:09] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-11 13:56:22,933 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:56:23,844 - INFO -  * Restarting with stat
+2024-07-11 13:56:25,287 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:56:25,288 - INFO - Este es un mensaje informativo
+2024-07-11 13:56:25,288 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:56:25,289 - ERROR - Este es un mensaje de error
+2024-07-11 13:56:25,289 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:56:25,489 - WARNING -  * Debugger is active!
+2024-07-11 13:56:25,499 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:56:52,519 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:56:52,768 - INFO -  * Restarting with stat
+2024-07-11 13:56:53,491 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:56:53,492 - INFO - Este es un mensaje informativo
+2024-07-11 13:56:53,492 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:56:53,492 - ERROR - Este es un mensaje de error
+2024-07-11 13:56:53,493 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:56:53,618 - WARNING -  * Debugger is active!
+2024-07-11 13:56:53,625 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:56:55,730 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:56:55,921 - INFO -  * Restarting with stat
+2024-07-11 13:56:57,055 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:56:57,056 - INFO - Este es un mensaje informativo
+2024-07-11 13:56:57,056 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:56:57,056 - ERROR - Este es un mensaje de error
+2024-07-11 13:56:57,056 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:56:57,250 - WARNING -  * Debugger is active!
+2024-07-11 13:56:57,256 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:56:58,650 - INFO - 127.0.0.1 - - [11/Jul/2024 13:56:58] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-11 13:57:07,547 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:57:07,714 - INFO -  * Restarting with stat
+2024-07-11 13:57:08,425 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:57:08,427 - INFO - Este es un mensaje informativo
+2024-07-11 13:57:08,432 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:57:08,434 - ERROR - Este es un mensaje de error
+2024-07-11 13:57:08,434 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:57:08,573 - WARNING -  * Debugger is active!
+2024-07-11 13:57:08,579 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:57:23,004 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:57:23,327 - INFO -  * Restarting with stat
+2024-07-11 13:57:24,182 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:57:24,201 - INFO - Este es un mensaje informativo
+2024-07-11 13:57:24,222 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:57:24,237 - ERROR - Este es un mensaje de error
+2024-07-11 13:57:24,239 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:57:24,408 - WARNING -  * Debugger is active!
+2024-07-11 13:57:24,414 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:57:27,554 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:57:27,716 - INFO -  * Restarting with stat
+2024-07-11 13:57:28,521 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:57:28,521 - INFO - Este es un mensaje informativo
+2024-07-11 13:57:28,521 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:57:28,522 - ERROR - Este es un mensaje de error
+2024-07-11 13:57:28,522 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:57:28,637 - WARNING -  * Debugger is active!
+2024-07-11 13:57:28,642 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:57:30,776 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:57:30,912 - INFO -  * Restarting with stat
+2024-07-11 13:57:31,691 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:57:31,695 - INFO - Este es un mensaje informativo
+2024-07-11 13:57:31,696 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:57:31,696 - ERROR - Este es un mensaje de error
+2024-07-11 13:57:31,697 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:57:31,857 - WARNING -  * Debugger is active!
+2024-07-11 13:57:31,863 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:57:33,958 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:57:34,232 - INFO -  * Restarting with stat
+2024-07-11 13:57:35,098 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:57:35,102 - INFO - Este es un mensaje informativo
+2024-07-11 13:57:35,121 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:57:35,138 - ERROR - Este es un mensaje de error
+2024-07-11 13:57:35,155 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:57:46,268 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:57:46,269 - INFO - Este es un mensaje informativo
+2024-07-11 13:57:46,269 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:57:46,269 - ERROR - Este es un mensaje de error
+2024-07-11 13:57:46,269 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:57:46,385 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-11 13:57:46,385 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-11 13:57:46,388 - INFO -  * Restarting with stat
+2024-07-11 13:57:47,043 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:57:47,044 - INFO - Este es un mensaje informativo
+2024-07-11 13:57:47,044 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:57:47,044 - ERROR - Este es un mensaje de error
+2024-07-11 13:57:47,044 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:57:47,138 - WARNING -  * Debugger is active!
+2024-07-11 13:57:47,143 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:57:50,460 - INFO - 127.0.0.1 - - [11/Jul/2024 13:57:50] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-11 13:57:58,414 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:57:58,563 - INFO -  * Restarting with stat
+2024-07-11 13:57:59,195 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:57:59,195 - INFO - Este es un mensaje informativo
+2024-07-11 13:57:59,195 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:57:59,195 - ERROR - Este es un mensaje de error
+2024-07-11 13:57:59,197 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:57:59,337 - WARNING -  * Debugger is active!
+2024-07-11 13:57:59,354 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:58:01,502 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Controllers\\permisos_controller.py', reloading
+2024-07-11 13:58:01,736 - INFO -  * Restarting with stat
+2024-07-11 13:58:02,361 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:58:02,361 - INFO - Este es un mensaje informativo
+2024-07-11 13:58:02,362 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:58:02,362 - ERROR - Este es un mensaje de error
+2024-07-11 13:58:02,362 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:58:02,458 - WARNING -  * Debugger is active!
+2024-07-11 13:58:02,465 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:58:02,572 - INFO - 127.0.0.1 - - [11/Jul/2024 13:58:02] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-11 13:59:22,960 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Database\\db.py', reloading
+2024-07-11 13:59:23,125 - INFO -  * Restarting with stat
+2024-07-11 13:59:23,924 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:59:23,925 - INFO - Este es un mensaje informativo
+2024-07-11 13:59:23,925 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:59:23,925 - ERROR - Este es un mensaje de error
+2024-07-11 13:59:23,925 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:59:24,084 - WARNING -  * Debugger is active!
+2024-07-11 13:59:24,090 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:59:26,202 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Database\\db.py', reloading
+2024-07-11 13:59:26,408 - INFO -  * Restarting with stat
+2024-07-11 13:59:27,235 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:59:27,235 - INFO - Este es un mensaje informativo
+2024-07-11 13:59:27,235 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:59:27,235 - ERROR - Este es un mensaje de error
+2024-07-11 13:59:27,236 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:59:27,354 - WARNING -  * Debugger is active!
+2024-07-11 13:59:27,359 - INFO -  * Debugger PIN: 387-143-532
+2024-07-11 13:59:29,549 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\source\\src\\Database\\db.py', reloading
+2024-07-11 13:59:29,721 - INFO -  * Restarting with stat
+2024-07-11 13:59:31,799 - DEBUG - Este es un mensaje de debug
+2024-07-11 13:59:31,838 - INFO - Este es un mensaje informativo
+2024-07-11 13:59:31,890 - WARNING - Este es un mensaje de advertencia
+2024-07-11 13:59:31,901 - ERROR - Este es un mensaje de error
+2024-07-11 13:59:31,925 - CRITICAL - Este es un mensaje crítico
+2024-07-11 13:59:32,420 - WARNING -  * Debugger is active!
+2024-07-11 13:59:32,431 - INFO -  * Debugger PIN: 387-143-532
+2024-07-15 11:59:57,764 - INFO - 127.0.0.1 - - [15/Jul/2024 11:59:57] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-15 12:00:06,394 - ERROR - Error al obtener roles: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-15 12:00:06,415 - INFO - 127.0.0.1 - - [15/Jul/2024 12:00:06] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-17 14:58:33,175 - DEBUG - Este es un mensaje de debug
+2024-07-17 14:58:33,176 - INFO - Este es un mensaje informativo
+2024-07-17 14:58:33,176 - WARNING - Este es un mensaje de advertencia
+2024-07-17 14:58:33,176 - ERROR - Este es un mensaje de error
+2024-07-17 14:58:33,178 - CRITICAL - Este es un mensaje crítico
+2024-07-17 14:58:33,410 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-17 14:58:33,411 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-17 14:58:33,416 - INFO -  * Restarting with stat
+2024-07-17 14:58:34,638 - DEBUG - Este es un mensaje de debug
+2024-07-17 14:58:34,638 - INFO - Este es un mensaje informativo
+2024-07-17 14:58:34,639 - WARNING - Este es un mensaje de advertencia
+2024-07-17 14:58:34,639 - ERROR - Este es un mensaje de error
+2024-07-17 14:58:34,639 - CRITICAL - Este es un mensaje crítico
+2024-07-17 14:58:34,801 - WARNING -  * Debugger is active!
+2024-07-17 14:58:34,819 - INFO -  * Debugger PIN: 387-143-532
+2024-07-22 15:30:34,219 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:30:34,220 - INFO - Este es un mensaje informativo
+2024-07-22 15:30:34,220 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:30:34,221 - ERROR - Este es un mensaje de error
+2024-07-22 15:30:34,221 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:31:02,373 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:31:02,376 - INFO - Este es un mensaje informativo
+2024-07-22 15:31:02,377 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:31:02,379 - ERROR - Este es un mensaje de error
+2024-07-22 15:31:02,381 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:31:02,923 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-22 15:31:02,923 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 15:31:02,926 - INFO -  * Restarting with stat
+2024-07-22 15:31:05,447 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:31:05,447 - INFO - Este es un mensaje informativo
+2024-07-22 15:31:05,448 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:31:05,451 - ERROR - Este es un mensaje de error
+2024-07-22 15:31:05,451 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:31:05,714 - WARNING -  * Debugger is active!
+2024-07-22 15:31:05,722 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:31:21,125 - INFO - 127.0.0.1 - - [22/Jul/2024 15:31:21] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-22 15:32:37,142 - ERROR - Error al obtener roles: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-22 15:32:37,144 - INFO - 127.0.0.1 - - [22/Jul/2024 15:32:37] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-22 15:36:28,199 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\roles.py', reloading
+2024-07-22 15:36:28,764 - INFO -  * Restarting with stat
+2024-07-22 15:36:52,706 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:36:52,706 - INFO - Este es un mensaje informativo
+2024-07-22 15:36:52,707 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:36:52,707 - ERROR - Este es un mensaje de error
+2024-07-22 15:36:52,707 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:36:52,929 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-22 15:36:52,929 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-22 15:36:52,935 - INFO -  * Restarting with stat
+2024-07-22 15:36:54,761 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:36:54,762 - INFO - Este es un mensaje informativo
+2024-07-22 15:36:54,763 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:36:54,763 - ERROR - Este es un mensaje de error
+2024-07-22 15:36:54,764 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:36:54,930 - WARNING -  * Debugger is active!
+2024-07-22 15:36:54,957 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:37:01,060 - ERROR - Error al obtener roles: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-22 15:37:01,063 - INFO - 127.0.0.1 - - [22/Jul/2024 15:37:01] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-22 15:37:45,197 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\roles.py', reloading
+2024-07-22 15:37:45,439 - INFO -  * Restarting with stat
+2024-07-22 15:37:46,719 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:37:46,756 - INFO - Este es un mensaje informativo
+2024-07-22 15:37:46,779 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:37:46,782 - ERROR - Este es un mensaje de error
+2024-07-22 15:37:46,783 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:37:46,932 - WARNING -  * Debugger is active!
+2024-07-22 15:37:46,939 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:37:52,409 - ERROR - Error al obtener roles: The current Flask app is not registered with this 'SQLAlchemy' instance. Did you forget to call 'init_app', or did you create multiple 'SQLAlchemy' instances?
+2024-07-22 15:37:52,417 - INFO - 127.0.0.1 - - [22/Jul/2024 15:37:52] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-22 15:38:38,448 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\extensions.py', reloading
+2024-07-22 15:38:39,068 - INFO -  * Restarting with stat
+2024-07-22 15:38:40,595 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:38:40,596 - INFO - Este es un mensaje informativo
+2024-07-22 15:38:40,598 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:38:40,599 - ERROR - Este es un mensaje de error
+2024-07-22 15:38:40,600 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:38:40,758 - WARNING -  * Debugger is active!
+2024-07-22 15:38:40,764 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:39:30,160 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\app.py', reloading
+2024-07-22 15:39:30,448 - INFO -  * Restarting with stat
+2024-07-22 15:39:31,851 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:39:31,851 - INFO - Este es un mensaje informativo
+2024-07-22 15:39:31,851 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:39:31,852 - ERROR - Este es un mensaje de error
+2024-07-22 15:39:31,852 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:39:32,134 - WARNING -  * Debugger is active!
+2024-07-22 15:39:32,140 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:39:54,268 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\roles.py', reloading
+2024-07-22 15:39:54,472 - INFO -  * Restarting with stat
+2024-07-22 15:39:55,756 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:39:55,757 - INFO - Este es un mensaje informativo
+2024-07-22 15:39:55,757 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:39:55,758 - ERROR - Este es un mensaje de error
+2024-07-22 15:39:55,758 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:39:55,956 - WARNING -  * Debugger is active!
+2024-07-22 15:39:55,962 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:40:03,319 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\administracion.py', reloading
+2024-07-22 15:40:03,634 - INFO -  * Restarting with stat
+2024-07-22 15:40:05,945 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:40:05,985 - INFO - Este es un mensaje informativo
+2024-07-22 15:40:06,019 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:40:06,034 - ERROR - Este es un mensaje de error
+2024-07-22 15:40:06,053 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:40:06,600 - WARNING -  * Debugger is active!
+2024-07-22 15:40:06,650 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:40:11,119 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\estudio.py', reloading
+2024-07-22 15:40:11,562 - INFO -  * Restarting with stat
+2024-07-22 15:40:13,077 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:40:13,080 - INFO - Este es un mensaje informativo
+2024-07-22 15:40:13,099 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:40:13,102 - ERROR - Este es un mensaje de error
+2024-07-22 15:40:13,103 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:40:13,494 - WARNING -  * Debugger is active!
+2024-07-22 15:40:13,500 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:40:14,601 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\experiencia.py', reloading
+2024-07-22 15:40:15,148 - INFO -  * Restarting with stat
+2024-07-22 15:40:16,803 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:40:16,804 - INFO - Este es un mensaje informativo
+2024-07-22 15:40:16,811 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:40:16,812 - ERROR - Este es un mensaje de error
+2024-07-22 15:40:16,813 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:40:17,348 - WARNING -  * Debugger is active!
+2024-07-22 15:40:17,354 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:40:20,648 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\listas_chequeo.py', reloading
+2024-07-22 15:40:21,100 - INFO -  * Restarting with stat
+2024-07-22 15:40:22,927 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:40:22,937 - INFO - Este es un mensaje informativo
+2024-07-22 15:40:22,940 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:40:22,965 - ERROR - Este es un mensaje de error
+2024-07-22 15:40:22,967 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:40:23,334 - WARNING -  * Debugger is active!
+2024-07-22 15:40:23,339 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:40:24,466 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\listasChequeo_has_propiedades.py', reloading
+2024-07-22 15:40:25,021 - INFO -  * Restarting with stat
+2024-07-22 15:40:26,562 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:40:26,591 - INFO - Este es un mensaje informativo
+2024-07-22 15:40:26,598 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:40:26,600 - ERROR - Este es un mensaje de error
+2024-07-22 15:40:26,601 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:40:26,834 - WARNING -  * Debugger is active!
+2024-07-22 15:40:26,842 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:40:27,996 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\permisos.py', reloading
+2024-07-22 15:40:28,519 - INFO -  * Restarting with stat
+2024-07-22 15:40:29,951 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:40:29,952 - INFO - Este es un mensaje informativo
+2024-07-22 15:40:29,953 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:40:29,953 - ERROR - Este es un mensaje de error
+2024-07-22 15:40:29,954 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:40:30,384 - WARNING -  * Debugger is active!
+2024-07-22 15:40:30,390 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:40:34,795 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\proyecto.py', reloading
+2024-07-22 15:40:35,354 - INFO -  * Restarting with stat
+2024-07-22 15:40:36,926 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:40:36,927 - INFO - Este es un mensaje informativo
+2024-07-22 15:40:36,927 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:40:36,927 - ERROR - Este es un mensaje de error
+2024-07-22 15:40:36,927 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:40:37,114 - WARNING -  * Debugger is active!
+2024-07-22 15:40:37,119 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:40:38,429 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\proyectos_has_facturacion.py', reloading
+2024-07-22 15:40:38,893 - INFO -  * Restarting with stat
+2024-07-22 15:40:40,580 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:40:40,583 - INFO - Este es un mensaje informativo
+2024-07-22 15:40:40,584 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:40:40,584 - ERROR - Este es un mensaje de error
+2024-07-22 15:40:40,585 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:40:40,847 - WARNING -  * Debugger is active!
+2024-07-22 15:40:40,852 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:40:42,063 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\roles_has_permisos.py', reloading
+2024-07-22 15:40:42,620 - INFO -  * Restarting with stat
+2024-07-22 15:40:44,278 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:40:44,278 - INFO - Este es un mensaje informativo
+2024-07-22 15:40:44,279 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:40:44,279 - ERROR - Este es un mensaje de error
+2024-07-22 15:40:44,280 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:40:44,463 - WARNING -  * Debugger is active!
+2024-07-22 15:40:44,468 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:40:45,569 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\roles_has_usuarios.py', reloading
+2024-07-22 15:40:46,100 - INFO -  * Restarting with stat
+2024-07-22 15:40:47,646 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:40:47,678 - INFO - Este es un mensaje informativo
+2024-07-22 15:40:47,682 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:40:47,686 - ERROR - Este es un mensaje de error
+2024-07-22 15:40:47,703 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:40:48,257 - WARNING -  * Debugger is active!
+2024-07-22 15:40:48,266 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:40:51,603 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\usuarios.py', reloading
+2024-07-22 15:40:51,908 - INFO -  * Restarting with stat
+2024-07-22 15:40:53,534 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:40:53,535 - INFO - Este es un mensaje informativo
+2024-07-22 15:40:53,535 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:40:53,535 - ERROR - Este es un mensaje de error
+2024-07-22 15:40:53,535 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:40:53,768 - WARNING -  * Debugger is active!
+2024-07-22 15:40:53,776 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:41:00,199 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\__init__.py', reloading
+2024-07-22 15:41:00,630 - INFO -  * Restarting with stat
+2024-07-22 15:41:01,869 - DEBUG - Este es un mensaje de debug
+2024-07-22 15:41:01,869 - INFO - Este es un mensaje informativo
+2024-07-22 15:41:01,872 - WARNING - Este es un mensaje de advertencia
+2024-07-22 15:41:01,875 - ERROR - Este es un mensaje de error
+2024-07-22 15:41:01,878 - CRITICAL - Este es un mensaje crítico
+2024-07-22 15:41:02,643 - WARNING -  * Debugger is active!
+2024-07-22 15:41:02,655 - INFO -  * Debugger PIN: 129-813-691
+2024-07-22 15:41:05,905 - ERROR - Error al obtener roles: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-22 15:41:05,947 - INFO - 127.0.0.1 - - [22/Jul/2024 15:41:05] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-22 15:41:25,053 - INFO - 127.0.0.1 - - [22/Jul/2024 15:41:25] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-22 15:42:04,431 - ERROR - Error al obtener roles: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Empleado(empleados)]'. Original exception was: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-22 15:42:04,433 - INFO - 127.0.0.1 - - [22/Jul/2024 15:42:04] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-22 15:47:57,339 - INFO - 127.0.0.1 - - [22/Jul/2024 15:47:57] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-23 14:44:11,232 - DEBUG - Este es un mensaje de debug
+2024-07-23 14:44:11,256 - INFO - Este es un mensaje informativo
+2024-07-23 14:44:11,256 - WARNING - Este es un mensaje de advertencia
+2024-07-23 14:44:11,258 - ERROR - Este es un mensaje de error
+2024-07-23 14:44:11,258 - CRITICAL - Este es un mensaje crítico
+2024-07-23 14:44:11,665 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-23 14:44:11,667 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-23 14:44:11,670 - INFO -  * Restarting with stat
+2024-07-23 14:44:13,153 - DEBUG - Este es un mensaje de debug
+2024-07-23 14:44:13,156 - INFO - Este es un mensaje informativo
+2024-07-23 14:44:13,156 - WARNING - Este es un mensaje de advertencia
+2024-07-23 14:44:13,157 - ERROR - Este es un mensaje de error
+2024-07-23 14:44:13,159 - CRITICAL - Este es un mensaje crítico
+2024-07-23 14:44:13,465 - WARNING -  * Debugger is active!
+2024-07-23 14:44:13,478 - INFO -  * Debugger PIN: 129-813-691
+2024-07-23 14:45:14,071 - INFO - 127.0.0.1 - - [23/Jul/2024 14:45:14] "[35m[1mGET /permisos HTTP/1.1[0m" 500 -
+2024-07-23 14:45:27,256 - ERROR - Error al obtener roles: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Empleado(empleados)]'. Original exception was: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-23 14:45:27,260 - INFO - 127.0.0.1 - - [23/Jul/2024 14:45:27] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-23 14:45:27,600 - ERROR - Error al obtener roles: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Empleado(empleados)]'. Original exception was: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-23 14:45:27,608 - INFO - 127.0.0.1 - - [23/Jul/2024 14:45:27] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-24 14:17:44,394 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\models\\empleados.py', reloading
+2024-07-24 14:17:44,768 - INFO -  * Restarting with stat
+2024-07-24 14:17:46,965 - DEBUG - Este es un mensaje de debug
+2024-07-24 14:17:46,966 - INFO - Este es un mensaje informativo
+2024-07-24 14:17:46,966 - WARNING - Este es un mensaje de advertencia
+2024-07-24 14:17:46,967 - ERROR - Este es un mensaje de error
+2024-07-24 14:17:46,967 - CRITICAL - Este es un mensaje crítico
+2024-07-24 14:17:47,326 - WARNING -  * Debugger is active!
+2024-07-24 14:17:47,343 - INFO -  * Debugger PIN: 129-813-691
+2024-07-24 14:17:52,660 - ERROR - Error al obtener roles: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-24 14:17:52,662 - INFO - 127.0.0.1 - - [24/Jul/2024 14:17:52] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-24 14:23:45,373 - ERROR - Error al obtener roles: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Empleado(empleados)]'. Original exception was: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-24 14:23:45,388 - INFO - 127.0.0.1 - - [24/Jul/2024 14:23:45] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-24 14:23:50,273 - ERROR - Error al obtener roles: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Empleado(empleados)]'. Original exception was: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-24 14:23:50,278 - INFO - 127.0.0.1 - - [24/Jul/2024 14:23:50] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-24 14:24:05,628 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\Controllers\\roles_controller.py', reloading
+2024-07-24 14:24:05,932 - INFO -  * Restarting with stat
+2024-07-24 14:24:07,572 - DEBUG - Este es un mensaje de debug
+2024-07-24 14:24:07,572 - INFO - Este es un mensaje informativo
+2024-07-24 14:24:07,572 - WARNING - Este es un mensaje de advertencia
+2024-07-24 14:24:07,572 - ERROR - Este es un mensaje de error
+2024-07-24 14:24:07,573 - CRITICAL - Este es un mensaje crítico
+2024-07-24 14:24:07,841 - WARNING -  * Debugger is active!
+2024-07-24 14:24:07,848 - INFO -  * Debugger PIN: 129-813-691
+2024-07-24 14:24:54,985 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\Controllers\\roles_controller.py', reloading
+2024-07-24 14:24:55,193 - INFO -  * Restarting with stat
+2024-07-24 14:24:56,458 - DEBUG - Este es un mensaje de debug
+2024-07-24 14:24:56,459 - INFO - Este es un mensaje informativo
+2024-07-24 14:24:56,459 - WARNING - Este es un mensaje de advertencia
+2024-07-24 14:24:56,459 - ERROR - Este es un mensaje de error
+2024-07-24 14:24:56,459 - CRITICAL - Este es un mensaje crítico
+2024-07-24 14:24:56,707 - WARNING -  * Debugger is active!
+2024-07-24 14:24:56,712 - INFO -  * Debugger PIN: 129-813-691
+2024-07-24 14:24:57,797 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\Source2\\Src\\Controllers\\roles_controller.py', reloading
+2024-07-24 14:24:58,014 - INFO -  * Restarting with stat
+2024-07-24 14:24:59,801 - DEBUG - Este es un mensaje de debug
+2024-07-24 14:24:59,802 - INFO - Este es un mensaje informativo
+2024-07-24 14:24:59,802 - WARNING - Este es un mensaje de advertencia
+2024-07-24 14:24:59,802 - ERROR - Este es un mensaje de error
+2024-07-24 14:24:59,803 - CRITICAL - Este es un mensaje crítico
+2024-07-24 14:25:00,044 - WARNING -  * Debugger is active!
+2024-07-24 14:25:00,072 - INFO -  * Debugger PIN: 129-813-691
+2024-07-24 14:26:20,803 - DEBUG - Este es un mensaje de debug
+2024-07-24 14:26:20,803 - INFO - Este es un mensaje informativo
+2024-07-24 14:26:20,804 - WARNING - Este es un mensaje de advertencia
+2024-07-24 14:26:20,804 - ERROR - Este es un mensaje de error
+2024-07-24 14:26:20,805 - CRITICAL - Este es un mensaje crítico
+2024-07-24 14:26:21,270 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-24 14:26:21,270 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-24 14:26:21,273 - INFO -  * Restarting with stat
+2024-07-24 14:26:23,477 - DEBUG - Este es un mensaje de debug
+2024-07-24 14:26:23,477 - INFO - Este es un mensaje informativo
+2024-07-24 14:26:23,478 - WARNING - Este es un mensaje de advertencia
+2024-07-24 14:26:23,478 - ERROR - Este es un mensaje de error
+2024-07-24 14:26:23,478 - CRITICAL - Este es un mensaje crítico
+2024-07-24 14:26:23,943 - WARNING -  * Debugger is active!
+2024-07-24 14:26:23,953 - INFO -  * Debugger PIN: 129-813-691
+2024-07-24 14:26:30,228 - ERROR - Error al obtener roles: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-24 14:26:30,234 - INFO - 127.0.0.1 - - [24/Jul/2024 14:26:30] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
+2024-07-24 14:26:47,515 - DEBUG - Este es un mensaje de debug
+2024-07-24 14:26:47,517 - INFO - Este es un mensaje informativo
+2024-07-24 14:26:47,517 - WARNING - Este es un mensaje de advertencia
+2024-07-24 14:26:47,517 - ERROR - Este es un mensaje de error
+2024-07-24 14:26:47,517 - CRITICAL - Este es un mensaje crítico
+2024-07-24 14:26:47,773 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-24 14:26:47,774 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-24 14:26:47,777 - INFO -  * Restarting with stat
+2024-07-24 14:26:50,799 - DEBUG - Este es un mensaje de debug
+2024-07-24 14:26:50,799 - INFO - Este es un mensaje informativo
+2024-07-24 14:26:50,800 - WARNING - Este es un mensaje de advertencia
+2024-07-24 14:26:50,800 - ERROR - Este es un mensaje de error
+2024-07-24 14:26:50,800 - CRITICAL - Este es un mensaje crítico
+2024-07-24 14:26:51,058 - WARNING -  * Debugger is active!
+2024-07-24 14:26:51,064 - INFO -  * Debugger PIN: 129-813-691
+2024-07-24 14:26:51,193 - ERROR - Error al obtener roles: relationship 'empleados' expects a class or a mapper argument (received: <class 'sqlalchemy.sql.schema.Table'>)
+2024-07-24 14:26:51,197 - INFO - 127.0.0.1 - - [24/Jul/2024 14:26:51] "[35m[1mGET /roles HTTP/1.1[0m" 500 -
